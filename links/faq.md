@@ -65,7 +65,3 @@ Please note that your $LEND rewards have **not** disappeared and it's purely a f
 * If you're really in a rush, you can call claim() anytime on the ChefIncentivesController contract through the [blockexplorer](https://explorer.mantle.xyz/address/0x79e2fd1c484EB9EE45001A98Ce31F28918F27C41/contracts?contract-tab=write-proxy#address-tabs).\
 
 
-
-
-###
-

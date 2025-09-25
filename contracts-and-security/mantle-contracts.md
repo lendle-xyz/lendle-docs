@@ -1,5 +1,7 @@
 # Mantle Contracts
 
+## Mantle Contracts
+
 {% tabs %}
 {% tab title="Mainnet" %}
 | Contract Name                        | Address                                    |

@@ -11,7 +11,7 @@ In this tutorial we will unwind the positions that we've created by following [h
 
 Head over to the Dashboard of Lendle:
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 On the right, we can see all our borrows, in this case, ETH. Click on Repay to start the process.\
 \
