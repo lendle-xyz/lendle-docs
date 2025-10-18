@@ -20,17 +20,6 @@ We've opened the USDC market from the [..](../ "mention")screen.
 
 By clicking on the Borrow button we will be going to the Borrow screen for the USDC market.
 
-
-
-<figure><img src="../../../.gitbook/assets/Image 2025-10-18 at 4.16 PM.png" alt="" width="563"><figcaption></figcaption></figure>
-
-
-
-On this window we can see the amount of USDC I borrowed, how much borrowing power I used and my current [health-factor.md](health-factor.md "mention")\
-\
-At the moment, over 99% of the supplied USDC is being borrowed, which means that the interest we have to pay to borrow is very high. Why this is can be read in detail: [interest-rate-model.md](interest-rate-model.md "mention")\
-
-
 For this example, let's go with 10 USDC and press Continue to go to the next screen:
 
 
@@ -48,3 +37,14 @@ Take note of the updated [health-factor.md](health-factor.md "mention"). Press B
 
 
 Success, you've now borrowed assets from the Lendle Market.
+
+
+
+<figure><img src="../../../.gitbook/assets/Image 2025-10-18 at 4.16 PM.png" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
+On this window we can see the amount of USDC I borrowed, how much borrowing power I used and my current [health-factor.md](health-factor.md "mention")\
+
+
+At the moment, over 99% of the supplied USDC is being borrowed, which means that the interest we have to pay to borrow is very high. Why this is can be read in detail: [interest-rate-model.md](interest-rate-model.md "mention")\
