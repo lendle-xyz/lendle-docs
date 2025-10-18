@@ -44,7 +44,7 @@ Success, you've now borrowed assets from the Lendle Market.
 
 
 
-On this window we can see the amount of USDC I borrowed, how much borrowing power I used and my current [health-factor.md](health-factor.md "mention")\
+On Dashboard window you can see the amount of USDC I borrowed, how much borrowing power I used and my current [health-factor.md](health-factor.md "mention")\
 
 
 At the moment, over 99% of the supplied USDC is being borrowed, which means that the interest we have to pay to borrow is very high. Why this is can be read in detail: [interest-rate-model.md](interest-rate-model.md "mention")\
