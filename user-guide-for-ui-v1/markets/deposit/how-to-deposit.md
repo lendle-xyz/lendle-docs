@@ -15,7 +15,9 @@ We've opened one of the markets from this screen, in this example it's MNT.
 
 
 
-<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Image 2025-10-18 at 3.07 PM.png" alt=""><figcaption></figcaption></figure>
+
+
 
 _Under 'Reserve status & configuration' you can see:_
 
@@ -40,7 +42,9 @@ _On the right, under 'Your Info', you can see:_
 \
 For the tutorial, we will click on supply which will take us to the supply screen for the MNT market:
 
-<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../../.gitbook/assets/Image 2025-10-18 at 3.08 PM.png" alt=""><figcaption></figcaption></figure>
 
 _On the top you can see Your balance (any MNT that is already supplied), Your wallet balance (any MNT that is in your wallet) and your overall health factor._\
 \
@@ -50,17 +54,29 @@ _Next to this we see the same information as on the previous screen, with the Ma
 
 On the bottom we can either use MAX or input a custom number to deposit and press Continue to start the approval and deposit transactions:
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>1/3</p></figcaption></figure>
+
+
+<figure><img src="../../../.gitbook/assets/Image 2025-10-18 at 3.09 PM.png" alt=""><figcaption></figcaption></figure>
 
 Press Approve, and press default in the MetaMask popup to approve the exact amount you are spending.
 
-<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption><p>2/3</p></figcaption></figure>
+
 
 Press Deposit, and confirm the transaction once more in MetaMask.
 
+
+
+<figure><img src="../../../.gitbook/assets/Image 2025-10-18 at 3.12 PM.png" alt=""><figcaption></figcaption></figure>
+
+
+
 After a couple of seconds your screen will update (depending on RPC) and it should look something like this:
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../../.gitbook/assets/Image 2025-10-18 at 3.13 PM.png" alt=""><figcaption></figcaption></figure>
+
+
 
 We can see in the Top left, that my balance has updated and my wallet balance is now 0.\
 In the bottom you can see our 2 transactions, which can be followed to the block explorer for more info.
