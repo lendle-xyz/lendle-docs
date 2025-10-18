@@ -1,11 +1,10 @@
 # Markets
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Image 2025-10-18 at 2.47 PM.png" alt=""><figcaption></figcaption></figure>
 
 On the Markets screen, you can:
 
 * See the statistics of the Lendle protocol
-* Vest any Lendle tokens that were rewarded
 * Open each individual market by clicking on the asset logo for:
   * more granular statistics
   * to supply and/or borrow an asset
