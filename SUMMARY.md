@@ -36,7 +36,6 @@
     * [Repaying a loan](user-guide-for-ui-v1/markets/borrow/repaying-a-loan.md)
     * [Liquidations & Flashloans](user-guide-for-ui-v1/markets/borrow/liquidations-and-flashloans.md)
 * [Manage](user-guide-for-ui-v1/manage/README.md)
-  * [Vested Rewards](user-guide-for-ui-v1/manage/vested-rewards.md)
   * [Locking & Staking](user-guide-for-ui-v1/manage/locking-and-staking.md)
 * [Stats](user-guide-for-ui-v1/stats.md)
 
