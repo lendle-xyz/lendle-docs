@@ -1,5 +1,9 @@
 # Withdrawing Assets
 
+{% embed url="https://drive.google.com/file/d/1ahPwg-QK4zQGp6dHADmwwvfVFcIacSKJ/view?usp=sharing" %}
+
+
+
 If you want to withdraw an asset, and thus swap your L-Token for the underlying asset, you should navigate to the **Dashboard** and click on 'Withdraw' for each market.
 
 When withdrawing assets you are decreasing your collateral amount and thereby decreasing your health factor. Please take this into consideration before withdrawing any assets to prevent being liquidated.

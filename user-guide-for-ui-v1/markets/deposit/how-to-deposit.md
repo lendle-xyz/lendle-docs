@@ -4,11 +4,6 @@ description: Providing liquidity to the Lendle market
 
 # How-To-Deposit
 
-{% hint style="info" %}
-If you haven't bridged your funds to the Mantle chain, or looking to add more from a different chain, we can recommend using the 1-click-supply through Axelar [here](https://app.lendle.xyz/bridge-supply).\
-If you're just looking for a bridge, we have a couple of options [here](https://app.lendle.xyz/bridge).
-{% endhint %}
-
 In this Tutorial we will be depositing MNT through the [..](../ "mention")\
 
 
