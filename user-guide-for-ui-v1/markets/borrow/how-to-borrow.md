@@ -1,29 +1,50 @@
+---
+description: Borrow assets from Lendle market
+---
+
 # How-To-Borrow
 
-In this Tutorial we will be borrowing ETH against our DAI that we deposited in [how-to-deposit.md](../deposit/how-to-deposit.md "mention")
+{% embed url="https://drive.google.com/file/d/1mlOeteL6Oi9HM0FBakaKnwsivIlGcvMH/view?usp=sharing" %}
 
-We've opened the ETH market from the [..](../ "mention")screen.
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-By clicking on the Borrow button we will be going to the Borrow screen for the ETH market.
+In this Tutorial we will be borrowing USDC against our MNT that we deposited in [how-to-deposit.md](../deposit/how-to-deposit.md "mention")
 
-<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+We've opened the USDC market from the [..](../ "mention")screen.
 
-At the top we can see the amount of ETH I borrowed, how much my collateral is worth and my current [health-factor.md](health-factor.md "mention")\
-I already borrowed 1 ETH before and you can see at the top that I owe the protocol 0.0043 in ETH, this is the interest, or Variable borrow APY and increases the amount to repay with every epoch.\
+
+
+<figure><img src="../../../.gitbook/assets/Image 2025-10-18 at 3.45 PM.png" alt=""><figcaption></figcaption></figure>
+
+
+
+By clicking on the Borrow button we will be going to the Borrow screen for the USDC market.
+
+
+
+<figure><img src="../../../.gitbook/assets/Image 2025-10-18 at 4.16 PM.png" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
+On this window we can see the amount of USDC I borrowed, how much borrowing power I used and my current [health-factor.md](health-factor.md "mention")\
 \
-At the moment, over 99% of the supplied ETH is being borrowed, which means that on the right, the interest we have to pay to borrow is very high. Why this is can be read in detail: [interest-rate-model.md](interest-rate-model.md "mention")\
-\
-There are 76 WETH available in the market to borrow and at the bottom you can see that, depending on what and how much collateral I deposited, I can borrow up to 5.3 WETH.&#x20;
-
-For this example, let's go with 1 ETH and press Continue to go to the next screen:
-
-<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
-
-Take note of the updated [health-factor.md](health-factor.md "mention"). Press Borrow to start, sign the transaction in your wallet and it should look something like this in the end:\
+At the moment, over 99% of the supplied USDC is being borrowed, which means that the interest we have to pay to borrow is very high. Why this is can be read in detail: [interest-rate-model.md](interest-rate-model.md "mention")\
 
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+For this example, let's go with 10 USDC and press Continue to go to the next screen:
+
+
+
+<figure><img src="../../../.gitbook/assets/Image 2025-10-18 at 3.53 PM.png" alt=""><figcaption></figcaption></figure>
+
+
+
+Take note of the updated [health-factor.md](health-factor.md "mention"). Press Borrow to start, sign the transaction in your wallet and it should look something like this in the end:
+
+
+
+<figure><img src="../../../.gitbook/assets/Image 2025-10-18 at 4.01 PM.png" alt="" width="563"><figcaption></figcaption></figure>
+
+
 
 Success, you've now borrowed assets from the Lendle Market.
