@@ -44,7 +44,7 @@ For the tutorial, we will click on supply which will take us to the supply scree
 
 
 
-<figure><img src="../../../.gitbook/assets/Image 2025-10-18 at 3.08 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Image 2025-10-18 at 3.08 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 _On the top you can see Your balance (any MNT that is already supplied), Your wallet balance (any MNT that is in your wallet) and your overall health factor._\
 \
@@ -56,7 +56,7 @@ On the bottom we can either use MAX or input a custom number to deposit and pres
 
 
 
-<figure><img src="../../../.gitbook/assets/Image 2025-10-18 at 3.09 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Image 2025-10-18 at 3.09 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 Press Approve, and press default in the MetaMask popup to approve the exact amount you are spending.
 
@@ -66,7 +66,7 @@ Press Deposit, and confirm the transaction once more in MetaMask.
 
 
 
-<figure><img src="../../../.gitbook/assets/Image 2025-10-18 at 3.12 PM.png" alt=""><figcaption></figcaption></figure>
+<div data-full-width="true"><figure><img src="../../../.gitbook/assets/Image 2025-10-18 at 3.12 PM.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 
 
