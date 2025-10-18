@@ -1,3 +1,7 @@
+---
+description: Lendle Markets
+---
+
 # Markets
 
 <figure><img src="../../.gitbook/assets/Image 2025-10-18 at 2.47 PM.png" alt=""><figcaption></figcaption></figure>
