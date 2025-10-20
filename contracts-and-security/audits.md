@@ -4,3 +4,9 @@ Lendle V1 code has been audited by Sourcehat (formerly known as Solidity Finance
 \
 You can learn more about the audit here:\
 [https://sourcehat.com/audits/Lendle/](https://sourcehat.com/audits/Lendle/)
+
+
+
+Updated audit:
+
+[https://www.halborn.com/audits/lendle/brink-a73cf0](https://www.halborn.com/audits/lendle/brink-a73cf0)
