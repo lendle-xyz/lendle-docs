@@ -8,6 +8,8 @@
 
 ## User guide for UI V2
 
+* [Earn](user-guide-for-ui-v2/earn.md)
+* [Brink Vaults](user-guide-for-ui-v2/brink-vaults.md)
 * [Borrow page](user-guide-for-ui-v2/borrow-page/README.md)
   * [Deposit](user-guide-for-ui-v2/borrow-page/deposit/README.md)
     * [How To Deposit](user-guide-for-ui-v2/borrow-page/deposit/how-to-deposit.md)
@@ -16,13 +18,6 @@
     * [How To Borrow](user-guide-for-ui-v2/borrow-page/borrow/how-to-borrow.md)
     * [Repaying a loan](user-guide-for-ui-v2/borrow-page/borrow/repaying-a-loan.md)
 * [Isolated markets](user-guide-for-ui-v2/borrow-page/isolated-markets.md)
-
-## Key Protocol Insights
-
-* [Interest Rate Model](key-protocol-insights/interest-rate-model.md)
-* [Health Factor](key-protocol-insights/health-factor.md)
-* [Liquidations & Flashloans](key-protocol-insights/liquidations-and-flashloans.md)
-* [L-Tokens](key-protocol-insights/l-tokens.md)
 
 ## User guide for UI V1
 
@@ -36,6 +31,13 @@
     * [Repaying a loan](user-guide-for-ui-v1/markets/borrow/repaying-a-loan.md)
 * [Real Yield](user-guide-for-ui-v1/real-yield.md)
 * [More](user-guide-for-ui-v1/more.md)
+
+## Key Protocol Insights
+
+* [Interest Rate Model](key-protocol-insights/interest-rate-model.md)
+* [Health Factor](key-protocol-insights/health-factor.md)
+* [Liquidations & Flashloans](key-protocol-insights/liquidations-and-flashloans.md)
+* [L-Tokens](key-protocol-insights/l-tokens.md)
 
 ## Contracts & security
 
