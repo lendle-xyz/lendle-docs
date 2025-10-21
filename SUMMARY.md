@@ -35,8 +35,8 @@
     * [Interest Rate Model](user-guide-for-ui-v1/markets/borrow/interest-rate-model.md)
     * [Repaying a loan](user-guide-for-ui-v1/markets/borrow/repaying-a-loan.md)
     * [Liquidations & Flashloans](user-guide-for-ui-v1/markets/borrow/liquidations-and-flashloans.md)
-* [Manage](user-guide-for-ui-v1/manage/README.md)
-  * [Locking & Staking](user-guide-for-ui-v1/manage/locking-and-staking.md)
+* [Real Yield](user-guide-for-ui-v1/real-yield/README.md)
+  * [Staking](user-guide-for-ui-v1/real-yield/staking.md)
 * [Stats](user-guide-for-ui-v1/stats.md)
 
 ## Contracts & security
