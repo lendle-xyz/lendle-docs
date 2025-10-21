@@ -9,7 +9,6 @@
 ## User guide for UI V2
 
 * [Borrow page](user-guide-for-ui-v2/borrow-page/README.md)
-  * [Isolated markets](user-guide-for-ui-v2/borrow-page/isolated-markets.md)
   * [Deposit](user-guide-for-ui-v2/borrow-page/deposit/README.md)
     * [How To Deposit](user-guide-for-ui-v2/borrow-page/deposit/how-to-deposit.md)
     * [L-Tokens](user-guide-for-ui-v2/borrow-page/deposit/l-tokens.md)
@@ -20,6 +19,10 @@
     * [Interest Rate Model](user-guide-for-ui-v2/borrow-page/borrow/interest-rate-model.md)
     * [Repaying a loan](user-guide-for-ui-v2/borrow-page/borrow/repaying-a-loan.md)
     * [Liquidations & Flashloans](user-guide-for-ui-v2/borrow-page/borrow/liquidations-and-flashloans.md)
+
+***
+
+* [Isolated markets](isolated-markets.md)
 
 ## User guide for UI V1
 
