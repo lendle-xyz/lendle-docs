@@ -1,10 +1,14 @@
+---
+description: Borrowing process
+---
+
 # How To Borrow
 
 {% embed url="https://drive.google.com/file/d/1XWGjAecfs-yX5-a1Pr3ZAxgXCQfwUW_D/view?usp=sharing" %}
 
 
 
-Here we will be borrowng USDT against our MNT that we deposited before in [How To Deposit](broken-reference).
+Here we will be borrowng USDT against our MNT that we deposited before in [how-to-deposit.md](../deposit/how-to-deposit.md "mention")
 
 
 

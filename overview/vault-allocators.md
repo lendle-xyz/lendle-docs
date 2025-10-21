@@ -1,3 +1,7 @@
+---
+description: Automated strategies
+---
+
 # Vault Allocators
 
 In Lendle v2, the vault allocator serves as an automated, smart contract-driven engine that intelligently distributes user-supplied assets across high-yield opportunities within the ecosystem. This feature eliminates the need for manual intervention, allowing suppliers to benefit from real-time optimization without the complexities of traditional DeFi management.

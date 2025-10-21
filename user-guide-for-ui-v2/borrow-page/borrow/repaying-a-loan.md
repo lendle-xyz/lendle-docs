@@ -1,8 +1,12 @@
+---
+description: Repay borrowed assets
+---
+
 # Repaying a loan
 
 {% embed url="https://drive.google.com/file/d/13dBwD3KLuWGFdZ2X4Cgp3-BoRoJ1kygf/view?usp=sharing" %}
 
-Repaying your loan can be done from the "Portfolio" tab. In this tutorial we will unwind the positions that we've created by following [How-To-Deposit](../../../user-guide-for-ui-v1/markets/deposit/how-to-deposit.md) & [How-To-Borrow](../../../user-guide-for-ui-v1/markets/borrow/how-to-borrow.md).​
+Repaying your loan can be done from the "Portfolio" tab. In this tutorial we will unwind the positions that we've created by following [how-to-deposit.md](../deposit/how-to-deposit.md "mention") & [how-to-borrow.md](how-to-borrow.md "mention").
 
 <figure><img src="../../../.gitbook/assets/Image 2025-09-15 at 11.31 PM.jpg" alt=""><figcaption></figcaption></figure>
 

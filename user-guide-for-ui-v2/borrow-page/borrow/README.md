@@ -1,23 +1,15 @@
+---
+description: Lendle borrowing guide
+---
+
 # Borrow
 
-Here are the articles in this section:
+The **Borrow** section allows users to borrow assets against their deposited collateral directly from the Lendle markets. Borrowing enables users to access liquidity without selling their holdings, maintaining their market exposure while utilizing borrowed funds elsewhere.
 
-{% content-ref url="../../../user-guide-for-ui-v1/markets/borrow/how-to-borrow.md" %}
-[how-to-borrow.md](../../../user-guide-for-ui-v1/markets/borrow/how-to-borrow.md)
-{% endcontent-ref %}
 
-{% content-ref url="../../../key-protocol-insights/health-factor.md" %}
-[health-factor.md](../../../key-protocol-insights/health-factor.md)
-{% endcontent-ref %}
 
-{% content-ref url="../../../key-protocol-insights/interest-rate-model.md" %}
-[interest-rate-model.md](../../../key-protocol-insights/interest-rate-model.md)
-{% endcontent-ref %}
+Borrowing is available across both **Pooled Markets** and **Isolated Markets**. Each borrowing market has its own interest rate model, collateral requirements, and risk parameters. Your ability to borrow depends on your **Health Factor**, which determines how close your position is to liquidation.
 
-{% content-ref url="repaying-a-loan.md" %}
-[repaying-a-loan.md](repaying-a-loan.md)
-{% endcontent-ref %}
 
-{% content-ref url="../../../key-protocol-insights/liquidations-and-flashloans.md" %}
-[liquidations-and-flashloans.md](../../../key-protocol-insights/liquidations-and-flashloans.md)
-{% endcontent-ref %}
+
+Here is a tutorial on [how-to-borrow.md](how-to-borrow.md "mention")and [repaying-a-loan.md](repaying-a-loan.md "mention").

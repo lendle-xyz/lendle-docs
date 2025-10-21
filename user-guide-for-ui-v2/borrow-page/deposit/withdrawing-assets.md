@@ -1,3 +1,7 @@
+---
+description: Redeem your deposits
+---
+
 # Withdrawing Assets
 
 If you want to withdraw an asset, you should navigate to the "Portfolio" tab and click on 'Withdraw' for a market you want to withdraw.&#x20;

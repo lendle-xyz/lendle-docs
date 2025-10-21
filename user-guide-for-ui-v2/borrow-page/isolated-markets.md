@@ -1,3 +1,7 @@
+---
+description: Risk-contained lending
+---
+
 # Isolated markets
 
 ### Overview <a href="#overview" id="overview"></a>

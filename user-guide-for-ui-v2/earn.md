@@ -1,3 +1,7 @@
+---
+description: Earn with vaults
+---
+
 # Earn
 
 The **Earn** page allows users to deposit supported assets into yield-generating vaults powered by **Brink.money**.\
