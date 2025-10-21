@@ -17,7 +17,9 @@ Each vault on Lendle’s Earn page is backed by Brink’s on-chain vault infrast
 5. **Risk Management & Transparency** – Throughout the lifecycle, real-time risk assessments monitor volatility, network or protocol risk, and ensure that all smart contracts are audited and verifiable.&#x20;
 6. **Withdrawal & Share Redemption** – Users can redeem their vault shares at any time and receive underlying assets plus accrued yield, while the backend manages the unwinding of the deployed positions.
 
-***
+
+
+<figure><img src="../.gitbook/assets/Frame 42978 (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Vault-by-Vault Detail
 

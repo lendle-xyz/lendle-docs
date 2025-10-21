@@ -7,7 +7,9 @@ description: Earn with vaults
 The **Earn** page allows users to deposit supported assets into yield-generating vaults powered by **Brink.money**.\
 These vaults automatically allocate funds into optimized on-chain strategies to generate passive income for depositors.
 
-***
+
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-10-21 at 6.50.58 PM.png" alt=""><figcaption></figcaption></figure>
 
 #### **Overview**
 
