@@ -28,7 +28,7 @@ For this example, let's go with 10 USDC and press Continue to go to the next scr
 
 
 
-Take note of the updated [Broken link](broken-reference "mention"). Press Borrow to start, sign the transaction in your wallet and it should look something like this in the end:
+Take note of the updated [health-factor.md](../../../key-protocol-insights/health-factor.md "mention"). Press Borrow to start, sign the transaction in your wallet and it should look something like this in the end:
 
 
 
@@ -44,7 +44,7 @@ Success, you've now borrowed assets from the Lendle Market.
 
 
 
-On Dashboard window you can see the amount of USDC I borrowed, how much borrowing power I used and my current [Broken link](broken-reference "mention")\
+On Dashboard window you can see the amount of USDC I borrowed, how much borrowing power I used and my current [health-factor.md](../../../key-protocol-insights/health-factor.md "mention").\
 
 
-At the moment, over 99% of the supplied USDC is being borrowed, which means that the interest we have to pay to borrow is very high. Why this is can be read in detail: [Broken link](broken-reference "mention")\
+At the moment, over 99% of the supplied USDC is being borrowed, which means that the interest we have to pay to borrow is very high. Why this is can be read in detail: [interest-rate-model.md](../../../key-protocol-insights/interest-rate-model.md "mention").\

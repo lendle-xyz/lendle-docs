@@ -27,7 +27,7 @@ By pressing MAX we will see the full amount we owe. Press Continue to start repa
 
 <figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
-Verify the amount we're about to return to the protocol and take note of the new [Broken link](broken-reference "mention")
+Verify the amount we're about to return to the protocol and take note of the new [health-factor.md](../../../key-protocol-insights/health-factor.md "mention").
 
 When you are ready, press Approve and use default again in your MetaMask to only allow spending for the amount you put in.\
 \
