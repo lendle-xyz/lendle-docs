@@ -4,9 +4,14 @@ description: Supply to markets
 
 # Deposit
 
-There are 2 ways to deposit and borrow assets through our UI
+At the "Borrow tab" users can supply their assets to Lendle’s markets to start earning yield and enable borrowing power.\
+Deposited assets serve as collateral and immediately begin generating interest based on market conditions.
 
-1\) Through the dashboard page you can deposit and borrow with 1 click of a button.\
-2\) Through the page you can deposit for each individual market and see the parameters that apply to the market, like liquidation threshold and loan-to-value %.\
-\
-The tutorial will follow the second method --> [how-to-deposit.md](how-to-deposit.md "mention").
+
+
+At the top of the "Borrow" page, users can see all supported assets available for deposit.\
+Each asset card shows important market details such as the Supply AP&#x59;**,** Total Supply, and Wallet Balance.\
+These metrics update automatically depending on the liquidity and utilization of each market.
+
+
+
