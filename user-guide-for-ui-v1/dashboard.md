@@ -21,4 +21,4 @@ In the middle, you’ll see the amount of $LEND and $MNT available to claim.
 
 In the bottom left, you'll find the wallet balance of any asset that can be supplied to Lendle.
 
-And lastly, in the bottom right you can open new borrow positions and see how much is available for you to borrow. The availability depends on both market size and your [health-factor.md](markets/borrow/health-factor.md "mention")
+And lastly, in the bottom right you can open new borrow positions and see how much is available for you to borrow. The availability depends on both market size and your [Broken link](broken-reference "mention")

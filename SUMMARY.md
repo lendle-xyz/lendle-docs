@@ -11,19 +11,18 @@
 * [Borrow page](user-guide-for-ui-v2/borrow-page/README.md)
   * [Deposit](user-guide-for-ui-v2/borrow-page/deposit/README.md)
     * [How To Deposit](user-guide-for-ui-v2/borrow-page/deposit/how-to-deposit.md)
-    * [L-Tokens](user-guide-for-ui-v2/borrow-page/deposit/l-tokens.md)
     * [Withdrawing Assets](user-guide-for-ui-v2/borrow-page/deposit/withdrawing-assets.md)
   * [Borrow](user-guide-for-ui-v2/borrow-page/borrow/README.md)
     * [How To Borrow](user-guide-for-ui-v2/borrow-page/borrow/how-to-borrow.md)
-    * [Health Factor](user-guide-for-ui-v2/borrow-page/borrow/health-factor.md)
-    * [Interest Rate Model](user-guide-for-ui-v2/borrow-page/borrow/interest-rate-model.md)
     * [Repaying a loan](user-guide-for-ui-v2/borrow-page/borrow/repaying-a-loan.md)
-    * [Liquidations & Flashloans](user-guide-for-ui-v2/borrow-page/borrow/liquidations-and-flashloans.md)
 * [Isolated markets](user-guide-for-ui-v2/borrow-page/isolated-markets.md)
 
 ## Key Protocol Insights
 
-* [Page 1](key-protocol-insights/page-1.md)
+* [Interest Rate Model](key-protocol-insights/interest-rate-model.md)
+* [Health Factor](key-protocol-insights/health-factor.md)
+* [Liquidations & Flashloans](key-protocol-insights/liquidations-and-flashloans.md)
+* [L-Tokens](key-protocol-insights/l-tokens.md)
 
 ## User guide for UI V1
 
@@ -31,14 +30,10 @@
 * [Markets](user-guide-for-ui-v1/markets/README.md)
   * [Deposit](user-guide-for-ui-v1/markets/deposit/README.md)
     * [How-To-Deposit](user-guide-for-ui-v1/markets/deposit/how-to-deposit.md)
-    * [L-Tokens](user-guide-for-ui-v1/markets/deposit/l-tokens.md)
     * [Withdrawing Assets](user-guide-for-ui-v1/markets/deposit/withdrawing-assets.md)
   * [Borrow](user-guide-for-ui-v1/markets/borrow/README.md)
     * [How-To-Borrow](user-guide-for-ui-v1/markets/borrow/how-to-borrow.md)
-    * [Health Factor](user-guide-for-ui-v1/markets/borrow/health-factor.md)
-    * [Interest Rate Model](user-guide-for-ui-v1/markets/borrow/interest-rate-model.md)
     * [Repaying a loan](user-guide-for-ui-v1/markets/borrow/repaying-a-loan.md)
-    * [Liquidations & Flashloans](user-guide-for-ui-v1/markets/borrow/liquidations-and-flashloans.md)
 * [Real Yield](user-guide-for-ui-v1/real-yield.md)
 * [More](user-guide-for-ui-v1/more.md)
 
