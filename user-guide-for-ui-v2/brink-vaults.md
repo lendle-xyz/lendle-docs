@@ -4,13 +4,13 @@ description: Lendle x Brink
 
 # Brink Vaults
 
-### Vaults Overview (Powered by Brink)
+### Vaults Overview (Powered by Brink.money)
 
-Each vault on Lendle’s Earn page is backed by Brink’s on-chain vault infrastructure, built atop the ERC-4626 standard, which automates yield generation and risk-managed allocations. Depositors simply provide the underlying asset and receive a vault share token; behind the scenes, the system handles everything else.
+Each vault on Lendle’s Earn page is backed by Brink’s on-chain vault infrastructure, built on to of the ERC-4626 standard, which automates yield generation and risk-managed allocations. Depositors simply provide the underlying asset and receive a vault share token; behind the scenes, the system handles everything else.
 
 #### Operational Workflow Highlights
 
-1. **User Deposits** – A user deposits the underlying token (USDe, WETH, or WMNT) into the corresponding Lendle vault.
+1. **User Deposits** – A user deposits the underlying token into the corresponding Lendle vault.
 2. **Brink Engine Integration** – The deposit is directed into the Brink vault infrastructure. The “Brink Engine” takes over.&#x20;
 3. **Strategy Calculation & Optimization** – The engine continuously assesses yield opportunities, risk metrics and current utilization to compute the optimal allocation strategy.&#x20;
 4. **Dynamic Allocation & Rebalancing** – The system deploys (and if needed redeploys) funds into vetted DeFi protocols and markets. Rebalancing occurs frequently (hourly) to adapt to changing yield conditions and maintain capital efficiency.&#x20;
