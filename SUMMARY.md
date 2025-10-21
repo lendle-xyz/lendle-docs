@@ -19,10 +19,7 @@
     * [Interest Rate Model](user-guide-for-ui-v2/borrow-page/borrow/interest-rate-model.md)
     * [Repaying a loan](user-guide-for-ui-v2/borrow-page/borrow/repaying-a-loan.md)
     * [Liquidations & Flashloans](user-guide-for-ui-v2/borrow-page/borrow/liquidations-and-flashloans.md)
-
-***
-
-* [Isolated markets](isolated-markets.md)
+* [Isolated markets](user-guide-for-ui-v2/isolated-markets.md)
 
 ## User guide for UI V1
 
