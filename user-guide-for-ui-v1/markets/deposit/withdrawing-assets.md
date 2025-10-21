@@ -1,3 +1,7 @@
+---
+description: Redeem funds
+---
+
 # Withdrawing Assets
 
 {% embed url="https://drive.google.com/file/d/1ahPwg-QK4zQGp6dHADmwwvfVFcIacSKJ/view?usp=sharing" %}

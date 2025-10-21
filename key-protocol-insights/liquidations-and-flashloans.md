@@ -1,3 +1,7 @@
+---
+description: Protocol safety
+---
+
 # Liquidations & Flashloans
 
 ## Liquidations & Flashloans

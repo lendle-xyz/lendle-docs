@@ -1,3 +1,7 @@
+---
+description: Deployed addresses
+---
+
 # Mantle Contracts
 
 ## Mantle Contracts

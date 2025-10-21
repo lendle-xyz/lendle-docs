@@ -1,3 +1,7 @@
+---
+description: Supply receipts
+---
+
 # L-Tokens
 
 In AMMs, when a user provides liquidity, LP-tokens are minted and sent to the user. In Lendle, any asset deposited will give you 'L-tokens'. These interest-bearing tokens represent their underlying asset, for example:

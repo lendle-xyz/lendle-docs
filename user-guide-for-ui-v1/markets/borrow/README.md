@@ -1,3 +1,7 @@
+---
+description: Collateralized loans
+---
+
 # Borrow
 
 There are 2 ways to deposit and borrow assets through our UI

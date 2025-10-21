@@ -1,3 +1,7 @@
+---
+description: Supply assets
+---
+
 # Deposit
 
 There are 2 ways to deposit and borrow assets through our UI

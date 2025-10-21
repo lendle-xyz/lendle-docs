@@ -1,3 +1,7 @@
+---
+description: Risk indicator
+---
+
 # Health Factor
 
 ## Health Factor

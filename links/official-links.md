@@ -1,3 +1,7 @@
+---
+description: Lendle resources
+---
+
 # Official Links
 
 Website: [https://lendle.xyz](https://lendle.xyz/)\

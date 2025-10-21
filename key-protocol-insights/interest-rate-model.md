@@ -1,3 +1,7 @@
+---
+description: Rate calculation
+---
+
 # Interest Rate Model
 
 ## Interest Rate Model

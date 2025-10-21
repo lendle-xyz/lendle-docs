@@ -1,3 +1,7 @@
+---
+description: Account analytics
+---
+
 # Dashboard
 
 On the Dashboard, you can:
